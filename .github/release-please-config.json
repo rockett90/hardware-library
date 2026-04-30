@@ -1,0 +1,13 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "simple",
+      "component": "library",
+      "changelog-path": "LIBRARY_CHANGELOG.md"
+    }
+  },
+  "changelog-sections": [
+    { "type": "feat", "section": "New Components" },
+    { "type": "fix",  "section": "Corrections" }
+  ]
+}
