@@ -18,7 +18,9 @@ Referenced as a git submodule at `library/` in the features repo.
 
 ## Adding Components
 
-Open a PR with changes under `library/<description>`. Review is required before merging.
+Open a PR with changes in this repository. Review is required before merging.
+
+Use the [component addition checklist](checklists/component-addition.md) to ensure all required fields, footprint layers, and sign-off steps are completed before requesting review.
 
 ## Versioning
 
